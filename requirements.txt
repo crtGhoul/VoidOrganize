@@ -1,0 +1,4 @@
+customtkinter>=5.2.0
+pillow>=10.0.0
+send2trash>=1.8.2
+pyinstaller>=6.4.0

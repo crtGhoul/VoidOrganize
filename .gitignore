@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build output
+build/
+dist/
+*.spec
+
+# Executables (download from GitHub Releases)
+*.exe
+
+# User generated data and undo logs
+backups/
+logs/
+settings.json
+undo_history.json
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# IDE / Editor files
+.vscode/
+.idea/
