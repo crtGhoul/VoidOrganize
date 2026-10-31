@@ -1,4 +1,4 @@
-# VoidOrganize (v2.0) — Autonomous PC File & Clutter Optimizer
+# VoidOrganize (v2.0.0) — Autonomous PC File & Clutter Optimizer
 
 > **Zero Clutter. Zero Confusion. Zero Data Loss.**  
 > A high-precision Windows utility that organizes loose files and directories, eliminates naked desktop clutter, hunts down duplicate files, and ensures users always know **exactly where their files went**.
@@ -60,3 +60,16 @@ pip install -r requirements.txt
 build_exe.bat
 ```
 Output standalone executable: `dist/VoidOrganize.exe`
+
+---
+
+## Velazquez Lab
+
+More free tools from Cesar Velazquez: [Velazquez Lab](https://velazquez-lab.pages.dev)
+
+- GitHub: https://github.com/crtGhoul
+- Codeberg: https://codeberg.org/crtGhoul
+- YouTube: https://www.youtube.com/@VelazquezLabs
+- Reddit: https://www.reddit.com/user/Manteqaada/
+
+> Have you used Muse? If not, you can earn a free 1B tokens when you sign up with my code: 0NS5DG — redeem it in Muse Settings > Redeem token within 48 hours of joining. Joining alone does not count.
